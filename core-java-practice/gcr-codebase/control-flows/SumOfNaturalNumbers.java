@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class SumOfNaturalNumbers {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        int number = input.nextInt(); //user inputs
+
+        //Control flow to check is number is positive integer if yes then calculate its sum else print not a natural number
+        if(number >= 0){
+            int sum = number * (number + 1) / 2;
+            System.out.println("The sum of " + number + " natural numbers is " + sum);
+        } else {
+            System.out.println("The number " + number + " is not a natural number");
+        }
+
+        input.close();
+    }
+}
