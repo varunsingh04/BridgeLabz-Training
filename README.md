@@ -28,8 +28,21 @@ This repository contains the programs, assignments, and learning outcomes from t
 - Topics included:
   - Operators and precedence
 - Solved assignment-based problems
+Programming Elements assignment solution 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements).
 
 ---
+
+### 🔹 Day 4: Java Fundamentals and Control Flows
+- Learned about java history , fundamentals , Control Flows
+- Topics included:
+  - Java History
+  - Java Static & Non-Static 
+  - JVM , JDK & JRE
+  - Control flows(If , If- else ,while , do-while , for , Switch)
+- Solved assignment-based problems 
+Control Flows Assignment solution 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flows).
+
+
 
 
 
