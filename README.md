@@ -77,7 +77,7 @@ BridgeLabz-Training/
  6. Using length property of array
 - Scenario-Based Question on Control Flow and Previous Topics 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 - Solved Assignment-Based problems in Arrays 
-  👉 [Click Here]()
+  👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Arrays)
 
 
 
