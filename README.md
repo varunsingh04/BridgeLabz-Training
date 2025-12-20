@@ -66,6 +66,19 @@ BridgeLabz-Training/
 - Control Flows Assignment solution 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flows).
 
 
+---
+
+### 🔹 Day 5: Java Arrays and Scenario-Based Question on Control flows
+- Java Array
+ 1. Create an Array
+ 3. Access an Array
+ 4. Accessing using for loop
+ 5. Modifying an Array
+ 6. Using length property of array
+- Scenario-Based Question on Control Flow and Previous Topics 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+- Solved Assignment-Based problems in Arrays 
+  👉 [Click Here]()
+
 
 
 
