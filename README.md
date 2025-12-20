@@ -4,6 +4,25 @@ This repository contains the programs, assignments, and learning outcomes from t
 
 ---
 
+## 🗂️ File Structure 
+BridgeLabz-Training/
+|--main
+|   |+-- README.md
+|
+|
+|+-- core-java-practice/(Branch Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- programming-elements/
+|   |   |
+|   |   +-- control-flow/
+|   |
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based/
+
+
 ## 📅 Day-wise Learning Summary
 
 ### 🔹 Day 1: GitHub Basics & Repository Setup
