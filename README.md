@@ -5,6 +5,8 @@ This repository contains the programs, assignments, and learning outcomes from t
 ---
 
 ## 🗂️ File Structure 
+
+```
 BridgeLabz-Training/
 |--main
 |   |+-- README.md
@@ -21,6 +23,8 @@ BridgeLabz-Training/
 |   +-- leet-code-codebase/
 |   |
 |   +-- scenario-based/
+
+```
 
 
 ## 📅 Day-wise Learning Summary
