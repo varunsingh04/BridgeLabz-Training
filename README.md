@@ -9,40 +9,44 @@ This repository contains the programs, assignments, and learning outcomes from t
 ```
 BridgeLabz-Training/
 |--main
-|   |+-- README.md
+|   |-- README.md
 |
 |
-|+-- core-java-practice/(Branch Name)
+|-- core-java-practice/(Branch Name)
 |   |
-|   +-- gcr-codebase/
+|   |-- gcr-codebase/
 |   |   |
-|   |   +-- arrays/
+|   |   |-- arrays/
 |   |   |
-|   |   +-- control-flow/
+|   |   |-- control-flow/
 |   |   |
-|   |   +--methods/
+|   |   |--methods/
 |   |   |
-|   |   +--programming-elements/
+|   |   |--programming-elements/
 |   |   |
-|   |   +-- strings/
+|   |   |-- strings/
 |   |   |
-|   |   +-- built-in functon/
+|   |   |-- built-in functon/
 |   |   |
-|   |   +-- string handling/
+|   |   |-- string handling/
 |   |   
 |   |   
-|   +-- leet-code-codebase/
+|   |-- leet-code-codebase/
 |   |
-|   +-- scenario-based/
+|   |-- scenario-based/
 |
 |
-|+--  oops(Branch) 
+|--  oops(Branch) 
 |   |
-|   +-- gcr-codebase/  
+|   |-- gcr-codebase/  
+|   |     |
+|   |     |-- class-object/
+|   |     |
+|   |     |-- constructor
 |   |     
-|   +-- leet-code-codebase/
+|   |-- leet-code-codebase/
 |   |
-|   +-- scenario-based/
+|   |-- scenario-based/
 
 
 ```
@@ -138,4 +142,15 @@ BridgeLabz-Training/
 
 ---
 
+### 🔹 Day 8 : Java Class and Object , Constructor
+- Topics Covered
+  - OOPS Fundamentals
+  - Class & Object
+  - Constructor
+  - Access Modifiers
+    - `Public` 
+    - `Private`
+    - `Protected`
+- Assignment Solution of Class and Object 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/oops/oops/gcr-codebase/class_and_object)
+- Assignment Solution of Constructors 👉 [Click Here]()
 
