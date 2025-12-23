@@ -133,7 +133,7 @@ BridgeLabz-Training/
 - Built-in Functions
 - String Handling
 - Assignment Solution of Methods 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
-- Assignment of Extras 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/built_in_function)
+- Assignment of Extras 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras)
 
 
 ---
