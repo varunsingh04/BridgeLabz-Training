@@ -16,13 +16,34 @@ BridgeLabz-Training/
 |   |
 |   +-- gcr-codebase/
 |   |   |
-|   |   +-- programming-elements/
+|   |   +-- arrays/
 |   |   |
 |   |   +-- control-flow/
-|   |
+|   |   |
+|   |   +--methods/
+|   |   |
+|   |   +--programming-elements/
+|   |   |
+|   |   +-- strings/
+|   |   |
+|   |   +-- built-in functon/
+|   |   |
+|   |   +-- string handling/
+|   |   
+|   |   
 |   +-- leet-code-codebase/
 |   |
 |   +-- scenario-based/
+|
+|
+|+--  oops(Branch) 
+|   |
+|   +-- gcr-codebase/  
+|   |     
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based/
+
 
 ```
 
@@ -79,6 +100,42 @@ BridgeLabz-Training/
 - Solved Assignment-Based problems in Arrays 
   👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Arrays)
 
+---
 
+### 🔹 Day 6: Java String and Java Exceptions
+- Java String
+  - Create Strings
+  - Use of "\" Escape Sequence
+  - Take String Input
+  - String Arrays
+  - String as Method Parameters
+  - String Class Built-In Methods
+  - ASCII Character Codes
+- Java Exceptions 
+  - Java Exceptions
+  - Java Exception Hierarchy
+  - Java Exception Types
+  - java.lang.RuntimeException or Unchecked Exceptions
+  - Checked Exceptions
+- Assignment Solution of String 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
+---
+
+### 🔹 Day 7 : Java Methods , Built-in Function , String Handling
+- Java Methods
+  - User Defined Methods
+  - Using Methods Multiple Times
+  - Making Methods more Dynamic
+  - Recursive Methods
+  - Java Static Methods
+  - Java Standard Library Methods
+  - java.lang.Math class
+- Built-in Functions
+- String Handling
+- Assignment Solution of Methods 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+- Assignment of Built-in Function 👉 [Click Here]()
+- Assignment of String Handling 👉 [Click Here]()
+
+---
 
 
