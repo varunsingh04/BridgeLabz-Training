@@ -1,6 +1,6 @@
-# BridgeLabz-CG-Training
+# BridgeLabz-Training
 
-This repository contains the programs, assignments, and learning outcomes from the **BridgeLabz-CG-Training** program.  
+This repository contains the programs, assignments, and learning outcomes from the **BridgeLabz-Training** program.  
 
 ---
 
@@ -152,5 +152,5 @@ BridgeLabz-Training/
     - `Private`
     - `Protected`
 - Assignment Solution of Class and Object 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/oops/oops/gcr-codebase/class_and_object)
-- Assignment Solution of Constructors 👉 [Click Here]()
+- Assignment Solution of Constructors 👉 [Click Here](https://github.com/varunsingh04/BridgeLabz-Training/tree/oops/oops/gcr-codebase/constructor)
 
