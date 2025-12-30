@@ -8,7 +8,7 @@ public class TwoSum {
         HashMap<Integer, Integer> map = new HashMap<>();
 
         for (int i = 0; i < arr.length; i++) {
-            int complement = target - arr[i];
+            int complement = target - arr[i]; //variable for complement 
 
             // If complement exists return indices
             if (map.containsKey(complement)) {

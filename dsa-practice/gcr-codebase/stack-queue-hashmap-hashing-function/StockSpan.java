@@ -10,7 +10,7 @@ public class StockSpan {
         for (int i = 0; i < prices.length; i++) {
            
             while (!stack.isEmpty() && prices[stack.peek()] <= prices[i]) {
-                stack.pop();
+                stack.pop(); //pop
             }
 
             // If stack is empty, all previous prices are smaller

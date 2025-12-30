@@ -44,7 +44,7 @@ public class MyQueue {
         System.out.println("Dequeued: " + queue.dequeue()); 
         System.out.println("Dequeued: " + queue.dequeue()); 
 
-        // Enqueue more elements
+        // Enqueue more elements in list
         queue.enqueue(40);
         queue.enqueue(50);
 

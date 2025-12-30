@@ -103,7 +103,7 @@ public class MyHashMap {
         System.out.println("Value for key 3: " + map.get(3));
         System.out.println("Value for key 4: " + map.get(4));   
 
-        // Removing a key
+        // Removing a key from hashmap
         map.remove(1);
         System.out.println("Value for key 1 after removal: " + map.get(1));
     }

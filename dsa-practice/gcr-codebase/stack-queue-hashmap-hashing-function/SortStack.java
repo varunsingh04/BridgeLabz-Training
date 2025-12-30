@@ -36,6 +36,7 @@ public class SortStack {
     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
 
+        //push
         stack.push(34);
         stack.push(3);
         stack.push(31);
