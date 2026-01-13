@@ -1,0 +1,33 @@
+package junit_prac_test;
+
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+
+import junit_prac.BankAccount;
+
+// class for testing
+public class BankAccountTest {
+
+    @Test
+    void testDeposit() {
+        BankAccount account = new BankAccount(1000);
+        account.depositMoney(500);
+        assertEquals(1500, account.getBalance());
+    }
+
+    @Test
+    void testWithdrawSuccess() {
+        BankAccount account = new BankAccount(1000);
+        boolean result = account.withdrawMoney(300);
+        assertTrue(result);
+        assertEquals(700, account.getBalance());
+    }
+
+    @Test
+    void testWithdrawFailure() {
+        BankAccount account = new BankAccount(500);
+        boolean result = account.withdrawMoney(800);
+        assertFalse(result);
+        assertEquals(500, account.getBalance());
+    }
+}
