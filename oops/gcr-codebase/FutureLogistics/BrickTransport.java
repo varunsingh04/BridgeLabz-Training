@@ -8,9 +8,9 @@ public class BrickTransport extends GoodsTransport{
 	public BrickTransport(String transportID, String transportDate, int transportRating,float brickSize, int brickQuantity, float brickPrice) {
 		super(transportID, transportDate, transportRating);
 		
-		brickSize = this.brickSize;
-		brickQuantity = this.brickQuantity;
-		brickPrice = this.brickPrice;
+		this.brickSize = brickSize;
+		this.brickQuantity = brickQuantity;
+		this.brickPrice = brickPrice;
 	}
 	
 	public void setBrickSize(float brickSize) {

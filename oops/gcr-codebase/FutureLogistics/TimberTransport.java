@@ -8,10 +8,10 @@ public class TimberTransport extends GoodsTransport{
 	
 	public TimberTransport(String transportID, String transportDate, int transportRating,float timberLength, float timberRadius, String timberType, float timberPrice ) {
 		super(transportID, transportDate, transportRating);
-		timberLength = this.timberLength;
-		timberRadius = this.timberRadius;
-		timberType = this.timberType;
-		timberPrice = this.timberPrice;
+		 this.timberLength = timberLength ;
+		 this.timberRadius = timberRadius;
+		 this.timberType = timberType;
+		 this.timberPrice = timberPrice;
 	}
 	
 	public void setTimberLength(float timberLength) {

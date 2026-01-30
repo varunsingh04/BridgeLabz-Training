@@ -6,9 +6,9 @@ public abstract class GoodsTransport {
 	protected int transportRating;
 	
 	public GoodsTransport(String transportID, String transportDate, int transportRating) {
-		transportID = this.transportID;
-		transportDate = this.transportDate;
-		transportRating = this.transportRating;
+		 this.transportID = transportID;
+		 this.transportDate = transportDate;
+		 this.transportRating = transportRating;
 		
 	}
 	

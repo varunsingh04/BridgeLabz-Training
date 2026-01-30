@@ -14,7 +14,7 @@ public class FutureLogistic {
         GoodsTransport transport=utility.parseDetails(inputDetails);
 
         // Validate Transport ID
-        if(!utility.validateTransportId(transport.getTransportID().toString())) {
+        if(!utility.validateTransportId(transport.getTransportID())) {
             return;
         }
 
